@@ -1,0 +1,35 @@
+.smallimg {
+  height: 200px;
+  width: 100%;
+  border-radius: 5px;
+}
+h1 {
+  font-size: 30px;
+}
+.bs{
+    box-shadow: rgba(0,0,0,0.35) 0px 5px 15px;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.detail{
+    justify-content: center;
+    align-items: center;
+}
+.bigimg{
+  height: 400px;
+  width: auto;
+  border-radius: 5px;
+}
+
+.celender{
+  border-radius: 5px;
+  border: 2px solid grey;
+ 
+
+}
+.date{
+  font-size: large;
+  font-weight: 600;
+}
